@@ -1,5 +1,6 @@
 # MIMIKEdgeClientEngine
 
+
 ## Before you start  
 
  [explore the developer resources & documentation](https://developer.mimik.com)
@@ -8,7 +9,7 @@
  
  
  
-
+## About:
 
 MIMIKEdgeClientEngine library can help you interact with mimik edgeEngine framework with the following APIs:
  
